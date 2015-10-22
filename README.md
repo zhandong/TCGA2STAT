@@ -10,5 +10,5 @@ This package is also available from :
 
 CRAN (https://cran.r-project.org/package=TCGA2STAT)
 
-Lab's website (http://www.liuzlab.org/TCGA2STAT/)
+Liu Lab (http://www.liuzlab.org/TCGA2STAT/)
 

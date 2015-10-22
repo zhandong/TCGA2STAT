@@ -8,7 +8,7 @@ Large amount of high-throughput data profiled from tumor patients were made publ
 <br>
 This package is also available from : 
 
-CRAN (http://www.liuzlab.org/TCGA2STAT/)
+CRAN (https://cran.r-project.org/package=TCGA2STAT)
 
-Lab's website (https://cran.r-project.org/package=TCGA2STAT)
+Lab's website (http://www.liuzlab.org/TCGA2STAT/)
 
